@@ -25,8 +25,7 @@ public $steam = array(
 
 public $steamcomm = array(
     'datasource' => 'ZSteam-API.SteamCommunitySource',
-    'host' => 'http://steamcommunity.com/',
-    'format' => 'json'
+    'host' => 'http://steamcommunity.com/'
 );
 ```
 ## How to use
